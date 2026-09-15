@@ -3,7 +3,7 @@
 
 ## 📹 Demonstration Videos
 
-<video src="Weaver.mp4" width="100%" controls></video>
+<video src="./Weaver.mp4" width="100%" controls></video>
 
 This repository includes two demonstration videos managed via **Git LFS (Large File Storage)**:
 * `Weaver.mov` (~418MB) — Primary demonstration video
